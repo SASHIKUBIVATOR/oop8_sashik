@@ -1,0 +1,9 @@
+Username: guyhuyhu
+Your check:
+
+Мультиварки  ##Count:  5  ##Price = 87495
+Чайники  ##Count:  4  ##Price = 12996
+Посудомойки  ##Count:  4  ##Price = 231596
+Ноутбуки  ##Count:  0  ##Price = 0
+Кофемолки  ##Count:  4  ##Price = 20000
+Itogo = 352087

@@ -1,0 +1,3 @@
+/home/sashik/CLionProjects/sashik_8oop/cmake-build-debug/CMakeFiles/sashik_8oop.dir
+/home/sashik/CLionProjects/sashik_8oop/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sashik/CLionProjects/sashik_8oop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
